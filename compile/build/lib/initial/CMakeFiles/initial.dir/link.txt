@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinitial.a  CMakeFiles/initial.dir/initial.cc.o CMakeFiles/initial.dir/sineRandom.cc.o CMakeFiles/initial.dir/taylorGreen.cc.o CMakeFiles/initial.dir/channelSine.cc.o CMakeFiles/initial.dir/uniformRandom.cc.o CMakeFiles/initial.dir/parabolicRandom.cc.o
+/usr/bin/ranlib libinitial.a

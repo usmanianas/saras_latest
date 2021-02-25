@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparallel.a  CMakeFiles/parallel.dir/parallel.cc.o CMakeFiles/parallel.dir/mpidata.cc.o
+/usr/bin/ranlib libparallel.a

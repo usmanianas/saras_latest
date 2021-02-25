@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpoisson.a  CMakeFiles/poisson.dir/poisson.cc.o CMakeFiles/poisson.dir/poisson_d2.cc.o CMakeFiles/poisson.dir/poisson_d3.cc.o
+/usr/bin/ranlib libpoisson.a

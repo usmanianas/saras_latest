@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwriter.a  CMakeFiles/writer.dir/writer.cc.o
+/usr/bin/ranlib libwriter.a

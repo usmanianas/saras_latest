@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../lib/io/parser.h
+math.h
+-
+string
+-
+sstream
+-
+fstream
+-
+blitz/array.h
+-
+yaml-cpp/yaml.h
+-
+
+../../lib/parallel/parallel.h
+blitz/array.h
+-
+mpi.h
+-
+parser.h
+../../lib/parallel/parser.h
+
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/grid/grid.cc
+grid.h
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/grid/grid.h
+
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/grid/grid.h
+math.h
+-
+string
+-
+vector
+-
+blitz/array.h
+-
+parallel.h
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/grid/parallel.h
+

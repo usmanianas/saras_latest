@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtseries.a  CMakeFiles/tseries.dir/tseries.cc.o
+/usr/bin/ranlib libtseries.a

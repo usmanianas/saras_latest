@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprobes.a  CMakeFiles/probes.dir/probes.cc.o
+/usr/bin/ranlib libprobes.a

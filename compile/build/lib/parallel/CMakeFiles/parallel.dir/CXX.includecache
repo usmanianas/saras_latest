@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../lib/io/parser.h
+math.h
+-
+string
+-
+sstream
+-
+fstream
+-
+blitz/array.h
+-
+yaml-cpp/yaml.h
+-
+
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/mpidata.cc
+mpidata.h
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/mpidata.h
+
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/mpidata.h
+blitz/array.h
+-
+mpi.h
+-
+parallel.h
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/parallel.h
+
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/parallel.cc
+parallel.h
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/parallel.h
+
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/parallel.h
+blitz/array.h
+-
+mpi.h
+-
+parser.h
+/home/anas/Anas/saras/latest_saras/Omega_per_g/time_average/new/lib/parallel/parser.h
+

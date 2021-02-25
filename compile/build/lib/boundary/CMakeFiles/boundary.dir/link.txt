@@ -1,0 +1,2 @@
+/usr/bin/ar qc libboundary.a  CMakeFiles/boundary.dir/boundary.cc.o CMakeFiles/boundary.dir/dirichletCC.cc.o CMakeFiles/boundary.dir/dirichletFC.cc.o CMakeFiles/boundary.dir/periodicCC.cc.o CMakeFiles/boundary.dir/periodicFC.cc.o CMakeFiles/boundary.dir/neumannCC.cc.o CMakeFiles/boundary.dir/neumannFC.cc.o CMakeFiles/boundary.dir/hotPlateCC.cc.o
+/usr/bin/ranlib libboundary.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libforce.a  CMakeFiles/force.dir/force.cc.o CMakeFiles/force.dir/coriolisForce.cc.o CMakeFiles/force.dir/buoyantForce.cc.o CMakeFiles/force.dir/rotatingConv.cc.o CMakeFiles/force.dir/randomForcing.cc.o
+/usr/bin/ranlib libforce.a
